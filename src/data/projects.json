@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Shree Ishwari Metal Industries",
+        "imageSrc": "projects/project1.png",
+        "description": "An online marketplace crafted for timeless essentials. Built to merge tradition with technology, this project connects heritage artisanship with modern digital commerce.",
+        "skills": ["React", "Node.js", "MongoDB"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "Finance Planning AI Tool",
+        "imageSrc": "projects/project2.png",
+        "description": "A digital aide for financial clarity. This project explores AI to help individuals track money, manage investments, and project future trends with informed predictions.",
+        "skills": ["Python", "TensorFlow", "FastAPI"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "The Arora Almanac",
+        "imageSrc": "projects/project3.png",
+        "description": "A chronicle of my work and vision. Designed as both a record and a reflection — a place where ideas, experiences, and ventures are documented with precision.",
+        "skills": ["React", "Vite", "Tailwind CSS"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+    }
+]
