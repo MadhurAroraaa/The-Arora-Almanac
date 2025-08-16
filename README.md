@@ -1,12 +1,22 @@
-# React + Vite
+# 🌟 The Arora Almanac
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website to showcase my projects, experience, and skills.  
+Designed and developed with **React + Vite**, focusing on a clean UI, responsive design, and smooth user experience.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 🏠 **Home Page** – Introduction & personal branding.  
+- 💡 **Skills Section** – Highlights of technical & professional skills.  
+- 💼 **Experience Section** – Work and learning journey.  
+- 📂 **Projects Section** – Featured projects with demo & source links.  
+- 📬 **Contact Section** – Easy ways to get in touch.  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **Frontend:** React (with Vite)  
+- **Styling:** CSS Modules (custom, no Tailwind)  
+- **Version Control:** Git & GitHub  
+
+---
