@@ -7,7 +7,7 @@
     justify-content: space-between;
     padding-top: 61px;
     z-index: 2;
-    margin: 0 10%;
+    margin: 0 3%;
 }
 
 .title {
@@ -49,12 +49,12 @@
 @media screen and (max-width: 830px) {
     .navbar {
         flex-direction: row;
-        align-items: center;
+        align-items:center;
         justify-content: space-between;
-        padding: 20px 10%;
+        padding: 20px 0px;
     }
     .title{
-        font-size: 30px;
+        font-size: 28px;
     }
 
     .menu {
