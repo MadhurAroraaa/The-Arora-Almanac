@@ -1,9 +1,9 @@
 @import "../../vars.css";
 .container{
     color: var(--color-text);
-    margin-top: 79px;
-    margin-left: 10%;
-    margin-left: 10%;
+    margin: 79px 5% 0;
+    padding: 0 5%;
+    box-sizing: border-box;
 }
 .title{
     color: var(--color-text);
@@ -83,10 +83,15 @@ list-style-type: disc;
 margin-left: 17px;
 }
 @media screen and (max-width: 830px) {
+    .container {
+        margin: 79px 0 0;
+        padding: 0 5%;
+    }
     .content{
         flex-direction: column;
-        align-items: center;
+        align-items: stretch;
         gap: 34px;
+        width: 100%;
     }
     .skills{
         width: 100%;
@@ -95,7 +100,40 @@ margin-left: 17px;
     }
     .history{
         width: 100%;
-        gap: 9%;
-
+        max-width: 100%;
+        margin: 0;
+        padding: 0;
+        gap: 20px;
+    }
+    .title{
+        font-size: 35px;
+    }
+    .imageContainer{
+        width: 80px;
+        height: 80px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .imageContainer img{
+        width: 50px;
+    }
+    .skill p{
+        font-size: 20px;
+    }
+    .history{
+     display: flex;
+     flex-direction:column;
+     align-items: center;
+     justify-content: center;
+    }
+    .historyItemDetails h3{
+        font-size: 23px;
+    }
+    .historyItemDetails p{
+        font-size: 18px;
+    }
+    .historyItemDetails ul{
+        font-size: 14px;
     }
 }

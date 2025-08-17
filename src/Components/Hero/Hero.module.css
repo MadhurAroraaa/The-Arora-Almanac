@@ -106,12 +106,17 @@
         align-items: center;
     }
     .title{
-        font-size: 57px;
+        padding-top: 20px;
+        font-size: 37px;
     }
     .description{
-        font-size: 29px;
+        font-size: 25px;
     }
     .contactBtn{
-        font-size: 19px;
+        font-size: 17px;
+        padding: 10px 19px;
+    }
+    .heroImage{
+        width: 60%;
     }
 }

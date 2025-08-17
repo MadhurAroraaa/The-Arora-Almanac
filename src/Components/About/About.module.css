@@ -2,7 +2,7 @@
 
 .container {
   position: relative;
-    background: linear-gradient(90deg, rgba(0,155,255,0.3) 0%,  #0b2447 100% );
+  background: linear-gradient(90deg, rgba(0,155,255,0.3) 0%,  #0b2447 100% );
   box-shadow: 0 16px 14px 0 rgba(212, 175, 55, 0.08);
   border-radius: 15px;
   padding: 73px;
@@ -108,5 +108,12 @@
     text-align: center;
     padding-left: 0;
     padding-right: 0;
+    font-size: 35px;
+  }
+  .aboutItem h3{
+    font-size: 25px;
+  }
+  .aboutItem p{
+    font-size: 14px;
   }
 }
