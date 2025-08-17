@@ -24,9 +24,8 @@
     font-weight: 900;
     margin-bottom: 33px;
     font-family: var(--font-roboto);
-    background: linear-gradient(90deg, rgba(212, 175, 55, 1)70%, rgba(212, 175, 55, 0)120%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: var(--color-text);
+    text-shadow: 0 0 10px rgba(212, 175, 55, 0.5);
 }
 
 .description {
